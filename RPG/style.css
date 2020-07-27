@@ -1,0 +1,16 @@
+h3 {
+    width: 180px;
+    text-align: center;
+    margin: 4px;
+  }
+  #left {
+    color: blue;
+  }
+  
+  #right {
+    color: red;
+  }
+  #plyImg {
+    color: green;
+  }
+  
